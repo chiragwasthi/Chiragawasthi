@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤙About Me<br><br>I'm a Data Analyst who loves turning raw, messy data into clear, meaningful insights that drive better decisions.<br><br>📊 I work with data to uncover patterns, trends, and stories hidden in the numbers<br>🔍 Skilled in data cleaning, analysis, and visualization<br>🎯 Passionate about making data simple, actionable, and impactful
+<br><br>I'm a Data Analyst who loves turning raw, messy data into clear, meaningful insights that drive better decisions.<br><br>📊 I work with data to uncover patterns, trends, and stories hidden in the numbers<br>🔍 Skilled in data cleaning, analysis, and visualization<br>🎯 Passionate about making data simple, actionable, and impactful
 
 
 ## 🌐 Socials:
